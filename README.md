@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Siva Kumar Raju Paidi</h1>
-# Data Scientist 🚀 | Unraveling the Secrets of Data
+
+## Data Scientist 🚀 | Unraveling the Secrets of Data
 
 I'm a data scientist with a passion for uncovering insights from data and creating data-driven solutions.
+### Top Skills
+- Machine Learning
+- Data Analysis
+- Python
+- SQL
+- Data Visualization
+
 <p align="left">
 </p>
 
@@ -32,7 +40,18 @@ I'm a data scientist with a passion for uncovering insights from data and creati
 💬 Reach out and say hello:
 
 - Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/siva-kumar-raju-paidi)
+<!-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter) -->
 
 Thanks for stopping by, and let's explore the world of data science together! 🚀
+
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=SivaKumarRajuPaidi)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SivaKumarRajuPaidi) 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SivaKumarRajuPaidi&show_icons=true)-->
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SivaKumarRajuPaidi)
+
+
+
